@@ -13,7 +13,6 @@ Página web para comprar guitarras con carrito de compras con funcionalidad bás
 - React + TypeScript
 - Vite
 - CSS
-- GitHub Pages (deploy)
 
 ---
 
