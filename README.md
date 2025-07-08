@@ -1,26 +1,26 @@
-# 🎸 Guitarra App
+# 🎸 Guitar Shop
 
-Página web para comprar guitarras con carrito de compras con funcionalidad básica. Desarrollada con React y TypeScript
+Guitar Shop is a fully responsive web application that simulates an online guitar store. Users can browse a catalog of guitars, view detailed product pages, add items to a shopping cart, and see a live cart summary with quantity and total price updates.
 
-## 🚀 Demo
+## 🔗 Live Demo
 
-🌍 [Abrir aplicación](https://guitar-shop-ts2497.netlify.app/)
+👉 [Click here to view the live demo](https://guitar-shop-ts2497.netlify.app/)
 
----
+## 🚀 Features
 
-## 🛠️ Tecnologías
+- Dynamic product catalog with images, prices, and descriptions
+- Interactive shopping cart with quantity control
+- Real-time price calculation
+- Responsive design for mobile and desktop
+- Smooth user experience using modern frontend tools
+- ✅ Fully migrated to **TypeScript** for type safety and scalability
+- ✅ Implemented **useReducer hook** for state management in the `reducer` branch
 
-- React + TypeScript
-- Vite
-- CSS
+## 🛠️ Technologies Used
 
----
-
-## 🔧 Instalación
-
-```bash
-git clone https://github.com/tuusuario/guitarra-app.git
-cd guitarra-app
-npm install
-npm run dev
-```
+- **HTML5** & **CSS3** – Structure and styling
+- **TypeScript** – Static typing for safer and scalable JavaScript development
+- **JavaScript (Vanilla)** – DOM manipulation and logic
+- **npm (Node Package Manager)** – Dependency management and script automation
+- **React** – Component-based UI building and dynamic rendering
+- **Vite** – Build tool for fast development
