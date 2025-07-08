@@ -14,6 +14,7 @@ Guitar Shop is a fully responsive web application that simulates an online guita
 - Responsive design for mobile and desktop
 - Smooth user experience using modern frontend tools
 - ✅ Fully migrated to **TypeScript** for type safety and scalability
+- ✅ Implemented **useReducer hook** for state management
 
 ## 🛠️ Technologies Used
 
